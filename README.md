@@ -5,7 +5,7 @@
 
 ## <a name='TOC'>Table of Contents</a>
 
-  1. [Types](#types)
+  1. [Types1](#types)
   1. [Objects](#objects)
   1. [Arrays](#arrays)
   1. [Strings](#strings)
